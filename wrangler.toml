@@ -6,4 +6,4 @@ kv_namespaces = [
   { binding = "LINK", id = "b2b56e09dc1a49b8966a7b5edd4691c5",preview_id='b2b56e09dc1a49b8966a7b5edd4691c5'}
 ]
 [site]
-bucket = "./static"
+bucket = "./static/dist"
